@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env files (DO NOT PUSH SECRETS!)
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+*.swp
+
+# Flask session files (if used)
+instance/
